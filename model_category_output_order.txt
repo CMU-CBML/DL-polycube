@@ -1,0 +1,11 @@
+0 cube
+1 ring
+2 rod
+3 mount1
+4 mount2
+5 part
+6 bust
+7 duck
+8 cow
+9 fandisk
+10 rockerarm
